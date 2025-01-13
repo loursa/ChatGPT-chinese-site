@@ -10,7 +10,7 @@
 
 ## 📋 目录
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)  
-2. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)  
+2. [国内可用的 ChatGPT 中文版镜像网站推荐](#国内可用的-chatgpt-中文版镜像网站推荐)  
 3. [为什么选ChatGPT中文版](#为什么选chatgpt中文版)  
 4. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)  
 5. [如何快速开始使用 ChatGPT 中文版](#如何快速开始使用-chatgpt-中文版)  
@@ -32,14 +32,14 @@
 
 ---
 
-## 国内可用的 ChatGPT 镜像网站推荐
+## 国内可用的 ChatGPT 中文版镜像网站推荐
 
 以下是精选的国内 ChatGPT 镜像站点，帮助用户快速上手：
 
 | 网站名称             | 地址                      | 支持版本       | 注册方式      | 免费额度   | 功能亮点       |
 |----------------------|---------------------------|---------------|---------------|-----------|----------------|
-| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 国内邮箱注册  | 有         | 中文优化，MJ绘图支持 |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4, GPT-o1  | 国内邮箱注册  | 有         | 支持语音/视频对话   |
+| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 国内邮箱注册  | 有         | ChatGPT中文版，MJ绘图支持 |
+| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4, GPT-o1  | 国内邮箱注册  | 有         | 支持GPT-4o,GPT-o1，支持语音/视频对话   |
 | **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 国内邮箱注册  | 有         | 稳定快速，支持API调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5        | 邮箱注册      | 有         | 稳定性一般，适合测试 |
 
